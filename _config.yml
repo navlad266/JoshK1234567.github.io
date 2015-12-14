@@ -11,7 +11,9 @@ description: The Best
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://images.clipartpanda.com/clipart-smiley-face-smiley-face-clip-art-1024x1024.jpg
 
-#
+#where to store images from posts
+post_assets: images
+general_assets: imnages
 # Flags below are optional
 #
 
