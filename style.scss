@@ -68,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $red;
 }
 
 p {
@@ -124,7 +124,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $red;
 }
 
 // Specify the color of the selection
@@ -209,7 +209,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $red;
   font-size: 16px;
 
   @include mobile {
