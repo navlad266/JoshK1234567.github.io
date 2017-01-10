@@ -2,7 +2,7 @@
 title: What do you think and why do you think it
 layout: post
 author: josh.king
-permalink: /what-do-you-think-and-why-do-you-think-it?/
+permalink: /what-do-you-think-and-why-do-you-think-it/
 source-id: 1E-8vGjbLpTcsmJSWZYp824mRMjgFsIz_690GjKVNdsI
 published: true
 ---
