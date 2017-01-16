@@ -9,16 +9,16 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Starting to use Codecademy</td>
-    <td>Date</td>
-    <td>01/01/01</td>
+    <td> Starting to use Codecademy</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <td></td>
   </tr>
   <tr>
     <td>How did I learn? What strategies were effective? </td>
