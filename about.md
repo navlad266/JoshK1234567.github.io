@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here is some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am really picky and don't accept excuses! I expect everyone to do their best and try and grow as a human being.  
+Woohoo!
 
 ### Contact me
 
