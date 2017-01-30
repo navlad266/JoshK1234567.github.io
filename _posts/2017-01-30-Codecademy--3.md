@@ -2,7 +2,7 @@
 title: Codecademy 3
 layout: post
 author: josh.king
-permalink: /Codecademy-3/
+permalink: /Codecademy--3/
 source-id: 1HrR0OnhQdTYy5V4bTYI62mzjOLW5SGWN-9Z6YOtcuBQ
 published: true
 ---
