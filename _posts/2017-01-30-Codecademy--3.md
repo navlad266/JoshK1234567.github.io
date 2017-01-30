@@ -1,15 +1,15 @@
 ---
-title: Codecademy  3
+title: Codecademy 3
 layout: post
 author: josh.king
-permalink: /codecademy--3/
+permalink: /Codecademy-3/
 source-id: 1HrR0OnhQdTYy5V4bTYI62mzjOLW5SGWN-9Z6YOtcuBQ
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy</td>
+    <td> Codecademy</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
