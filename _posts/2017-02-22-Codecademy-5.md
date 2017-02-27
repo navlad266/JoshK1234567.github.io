@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td> Pyglatin</td>
     <td>Date</td>
     <td>20/02/2017</td>
