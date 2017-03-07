@@ -1,7 +1,7 @@
 ---
-title: Codecademy 6
+title: Blog post 18
 layout: post
-author: josh.king
+author: navlad266
 permalink: /codecademy-6/
 source-id: 1k23KNM4TgMfkKtwVnZWWLNBU4zO4udN-n3hbEzJhmv4
 published: true
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <th>Title</th>
-    <td>Functions</td>
+    <td>Blog post 18</td>
     <th>Date</th>
     <td>20/02/2017</td>
   </tr>
@@ -24,7 +24,7 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>This lesson I started at 23% and passed my target of 27% with 28%. Next lesson I will start and hopefully complete the functions section. The definition given by codecademy is "A function is a reusable section of code written to perform a specific task in a program." I completed the 5% between 23 and 28 as homework because I spent most of the lesson trying to isert a table into my blog so it looks good.</td>
+    <td>In today's lesson what went well was thinking about how I needed to change my blog and what wasn’t good about my blog and how I could get a better mark. I realised that I need to is look further into my GitHub code and think about my markup code more too. I realised looking at my blog that I need to use more complex tools and make my blog better than it currently is.</td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
