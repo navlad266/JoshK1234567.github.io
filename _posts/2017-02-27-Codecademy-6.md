@@ -30,13 +30,15 @@ published: true
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>I was focused during the lesson and I have remembered most of what our teacher had told us about the layout of my blogs. I should already have the table in my blogs however I haven't done so yet.</td>
+    <td>I think I needed to make more notes and more detailed notes about what I could improve on my blog and about how I could improve my blog and how I could make it better as I could have written a lot meet to help myself and make my job easier when I was improving my blog at home.
+
+</td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>I need to continue to keep focus during lessons to achieve great things in IT. I will continue to work more on codecademy next lesson.</td>
+    <td>I should try to make more notes in lessons on what I need to work so this way I can try to make my life easier as I won't have to work things out at home and I get can get the most out of my lessons.</td>
   </tr>
 </table>
 
